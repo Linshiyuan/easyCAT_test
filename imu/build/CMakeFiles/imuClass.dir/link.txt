@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/imuClass.dir/src/testclass.cpp.o CMakeFiles/imuClass.dir/src/imu.cpp.o CMakeFiles/imuClass.dir/src/com.cpp.o CMakeFiles/imuClass.dir/src/atomprotocol.cpp.o  -o imuClass  -lpthread 

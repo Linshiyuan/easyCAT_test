@@ -1,0 +1,3 @@
+/home/pi/pi8gcode/easyCAT/imu/build/CMakeFiles/rebuild_cache.dir
+/home/pi/pi8gcode/easyCAT/imu/build/CMakeFiles/imuClass.dir
+/home/pi/pi8gcode/easyCAT/imu/build/CMakeFiles/edit_cache.dir
